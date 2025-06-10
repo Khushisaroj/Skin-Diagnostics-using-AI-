@@ -23,6 +23,7 @@ Steps Followed While Deploying :
 Working Project url: [http://127.0.0.1:8000/](http://127.0.0.1:8000/) 
 
 ScreenShots of the project :
+
 Home page:
 ![image](https://github.com/user-attachments/assets/a3df61d5-bf0a-4223-8ad2-fc3cc7aeaf8c)
 ![image](https://github.com/user-attachments/assets/2617e824-e185-410c-97b0-19350475773d)

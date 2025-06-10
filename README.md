@@ -1,4 +1,4 @@
-Project Title: SKIN TREATMENT USING ARTIFICIAL INTELLIGENCE 
+Project Title: SKIN DIAGNOSTICS USING ARTIFICIAL INTELLIGENCE 
 
 Project Member: Khushi Saroj
 
@@ -22,7 +22,7 @@ Steps Followed While Deploying :
 
 Working Project url: [http://127.0.0.1:8000/](http://127.0.0.1:8000/) 
 
-ScreenShots of the project :
+Screenshots of the project :
 
 Home page:
 ![image](https://github.com/user-attachments/assets/a3df61d5-bf0a-4223-8ad2-fc3cc7aeaf8c)
